@@ -5,11 +5,8 @@ $(document).ready(function(){
         $.getJSON('goods.json',function(data){
            var output = '<ul>';
             $.each(data,function(key,val){
-                if(val.name.search(myExp)!= -1) {
-                output+='<li>';
-                output+='<h2>'+val.name+'</h2>';
-                output+='<img src="images/'+val.model+'.jpg" alt="'+val.name+'"/>';
-                output+='</li>';
+                if(val.brand.search(myExp)!= -1) {
+                    output+=`<li><h2>${val.brand} #{val.model}</h2><img src="images/${val.model}.jpg" alt="${val.brand}"/></li>`
                 }
             });
             output+='</ul>';
