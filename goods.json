@@ -1,46 +1,98 @@
 [
   {
+    "type":"phone",
     "brand":"Samsung",
-    "model":"s7"
+    "model":"s7",
+    "descr":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consequuntur doloremque doloribus, est excepturi harum ipsa minus odio optio, porro quasi qui quidem recusandae repudiandae temporibus, totam ullam velit voluptas."
   },
   {
+    "type":"phone",
     "brand":"Samsung",
-    "model":"s8"
+    "model":"s8",
+    "descr":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consequuntur doloremque doloribus, est excepturi harum ipsa minus odio optio, porro quasi qui quidem recusandae repudiandae temporibus, totam ullam velit voluptas."
+
   },
   {
+    "type":"phone",
     "brand":"Samsung",
-    "model":"j7"
+    "model":"j7",
+    "descr":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consequuntur doloremque doloribus, est excepturi harum ipsa minus odio optio, porro quasi qui quidem recusandae repudiandae temporibus, totam ullam velit voluptas."
+
   },
   {
+    "type":"phone",
     "brand":"Samsung",
-    "model":"j5"
+    "model":"j5",
+    "descr":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consequuntur doloremque doloribus, est excepturi harum ipsa minus odio optio, porro quasi qui quidem recusandae repudiandae temporibus, totam ullam velit voluptas."
+
   },
   {
+    "type":"phone",
     "brand":"LG",
-    "model":"g3"
+    "model":"g3",
+    "descr":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consequuntur doloremque doloribus, est excepturi harum ipsa minus odio optio, porro quasi qui quidem recusandae repudiandae temporibus, totam ullam velit voluptas."
+
   },
   {
+    "type":"phone",
     "brand":"LG",
-    "model":"P713"
+    "model":"p713",
+    "descr":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consequuntur doloremque doloribus, est excepturi harum ipsa minus odio optio, porro quasi qui quidem recusandae repudiandae temporibus, totam ullam velit voluptas."
+
   },
   {
+    "type":"phone",
     "brand":"iPhone",
-    "model":"6"
+    "model":"6",
+    "descr":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consequuntur doloremque doloribus, est excepturi harum ipsa minus odio optio, porro quasi qui quidem recusandae repudiandae temporibus, totam ullam velit voluptas."
+
   },
   {
+    "type":"phone",
     "brand":"iPhone",
-    "model":"6s"
+    "model":"6s",
+    "descr":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consequuntur doloremque doloribus, est excepturi harum ipsa minus odio optio, porro quasi qui quidem recusandae repudiandae temporibus, totam ullam velit voluptas."
+
   },
   {
+    "type":"phone",
     "brand":"iPhone",
-    "model":"7"
+    "model":"7",
+    "descr":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consequuntur doloremque doloribus, est excepturi harum ipsa minus odio optio, porro quasi qui quidem recusandae repudiandae temporibus, totam ullam velit voluptas."
+
   },
   {
+    "type":"phone",
     "brand":"iPhone",
-    "model":"7s"
+    "model":"7s",
+    "descr":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consequuntur doloremque doloribus, est excepturi harum ipsa minus odio optio, porro quasi qui quidem recusandae repudiandae temporibus, totam ullam velit voluptas."
+
   },
   {
+    "type":"phone",
     "brand":"Xiaomi",
-    "model":"redmi4"
+    "model":"redmi4",
+    "descr":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consequuntur doloremque doloribus, est excepturi harum ipsa minus odio optio, porro quasi qui quidem recusandae repudiandae temporibus, totam ullam velit voluptas."
+  },
+  {
+    "type":"table",
+    "brand":"iPad",
+    "model":"pro",
+    "descr":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consequuntur doloremque doloribus, est excepturi harum ipsa minus odio optio, porro quasi qui quidem recusandae repudiandae temporibus, totam ullam velit voluptas."
+
+  },
+  {
+    "type":"table",
+    "brand":"iPad",
+    "model":"air2",
+    "descr":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consequuntur doloremque doloribus, est excepturi harum ipsa minus odio optio, porro quasi qui quidem recusandae repudiandae temporibus, totam ullam velit voluptas."
+
+  },
+  {
+    "type":"table",
+    "brand":"Asus",
+    "model":"zenpad",
+    "descr":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consequuntur doloremque doloribus, est excepturi harum ipsa minus odio optio, porro quasi qui quidem recusandae repudiandae temporibus, totam ullam velit voluptas."
+
   }
 ]

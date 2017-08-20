@@ -9,10 +9,32 @@
 </head>
 <body >
     <div class="container">
+        <div class="search">
         <label for="search">Search</label><br><br>
-        <input type="search" name="search" id="search" placeholder="Enter the title of good">    
+        <input type="search" name="search" id="search" placeholder="Enter the title of good">
+        </div>
+        <form id="list">
+            <input type="checkbox" class="check"name="phone" value="phone" id="phone">
+            <label for="phone">phone</label>
+            <input type="checkbox" class="check" name="table" value="table" id="table">
+            <label for="table">table</label>
+        </form>
     </div>
-    
+    <div id="myModal" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Modal Header</h4>
+                </div>
+                <div class="modal-body">
+                </div>
+            </div>
+
+        </div>
+    </div>
     <div id="update"></div>
     <script src="js/jquery-3.2.1.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
