@@ -19,6 +19,10 @@ $(document).ready(function(){
             $('#update').html(output);
         });
     });
+    $(".check").change(function () {
+        $('#search').keyup();
+
+    });
     $('#update').on('click','img',function () {
         var img = $(this);
         var name=`${img.attr('name')} ${img.attr('alt')}`;
